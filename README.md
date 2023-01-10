@@ -15,6 +15,6 @@ Protect the planets of our solar system by solving multiplication exercises
 
 
 ## Screenshots
-![Title Screen](https://raw.githubusercontent.com/YukoYamano/SpaceMath/main/Assets/OriginalAssets/Screenshots/TitleScreen.png?token=GHSAT0AAAAAAB4BH7XFT5X3I6XQFUXWRGCUY54WL7A)
+![Title Screen](https://raw.githubusercontent.com/YukoYamano/SpaceMath/main/Assets/OriginalAssets/Screenshots/TitleScreen.png?token=GHSAT0AAAAAAB4BH7XEYWZEPN2D7ZQ6GNDYY54XC4A)
 
-![Play Screen](https://raw.githubusercontent.com/YukoYamano/SpaceMath/main/Assets/OriginalAssets/Screenshots/PlayScreen.png?token=GHSAT0AAAAAAB4BH7XEHDGF4XQK4YU6EEPKY54WMLA)
+![Play Screen](https://raw.githubusercontent.com/YukoYamano/SpaceMath/main/Assets/OriginalAssets/Screenshots/PlayScreen.png?token=GHSAT0AAAAAAB4BH7XFZKEOYABQEGELM4YCY54XCZQ)
